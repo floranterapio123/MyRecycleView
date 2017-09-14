@@ -29,8 +29,10 @@ public class MainActivity extends AppCompatActivity {
                 R.drawable.honeycomb,
                 R.drawable.ics,
                 R.drawable.jellybean,
+                R.drawable.kitkat,
                 R.drawable.lollipop,
                 R.drawable.marshmallow,
+                R.drawable.nougat,
                 R.drawable.oreo
         };
         codename = getResources().getStringArray(R.array.codename);
